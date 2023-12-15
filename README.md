@@ -1,5 +1,7 @@
 # My personal homepage
 
+Moin.
+
 ## PaperMod
 
 - <https://github.com/adityatelange/hugo-PaperMod/wiki/Installation>
