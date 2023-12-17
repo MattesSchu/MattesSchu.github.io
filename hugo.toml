@@ -5,6 +5,10 @@ theme = "PaperMod"
 paginate = 5
 enableRobotsTXT = true
 
+[taxonomies]
+category = 'categories'
+tag = 'tags'
+
 [params]
 env = "production"
 description = "Personal Programming projects without Schnickschnack."
@@ -21,7 +25,7 @@ images = [ "papermod-cover.png" ]
 
 [params.profileMode]
 enabled = false
-title = "PaperMod"
+title = "MattesSchu"
 imageUrl = "#"
 imageTitle = "my image"
 
@@ -31,7 +35,7 @@ url = "archives"
 
 [[params.profileMode.buttons]]
 name = "Tags"
-url = "tags"
+url = "tags/"
 
 [params.homeInfoParams]
 Title = "Moin"
@@ -43,36 +47,42 @@ Personal Programming projects without Schnickschnack.
 name = "github"
 url = "https://github.com/mattesschu/"
 
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "projects/"
+weight = 10
+
 [menu]
 [[menu.main]]
 identifier = "categories"
-name = "categories"
-url = "/categories/"
-weight = 10
-
-[[menu.main]]
-identifier = "tags"
-name = "tags"
-url = "/tags/"
+name = "Categories"
+url = "categories/"
 weight = 20
 
 [[menu.main]]
-identifier = "archives"
-name = "archives"
-url = "/archives/"
+identifier = "tags"
+name = "Tags"
+url = "tags/"
 weight = 30
 
 [[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "archives"
+weight = 40
+
+[[menu.main]]
 identifier = "search"
-name = "search"
-url = "/search/"
-weight = 30
+name = "Search"
+url = "search/"
+weight = 50
 
 [[menu.main]]
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/mattesschu"
-weight = 50
+weight = 60
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
