@@ -1,9 +1,9 @@
 +++
 title = 'Moin Godot'
-date = 2023-12-12T20:11:35+01:00
-publishDate = 2023-12-17T12:00:00+00:00
+date = 2023-12-17T12:00:00+00:00
 draft = false
 tags=["hugo","games","programming"]
+categories=["godot"]
 [cover]
 image = "/posts/godot/00-init/fight-godot.png"
 +++

@@ -1,7 +1,6 @@
 +++
 title = 'Wo gehts lang?'
-date = 2023-12-12T20:11:35+01:00
-publishDate = 2023-12-24T12:00:00+00:00
+date = 2023-12-24T12:00:00+00:00
 draft = false
 tags=["godot","games","programming"]
 categories=["godot"]

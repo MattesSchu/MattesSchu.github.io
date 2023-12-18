@@ -47,11 +47,11 @@ Personal Programming projects without Schnickschnack.
 name = "github"
 url = "https://github.com/mattesschu/"
 
-[[menu.main]]
-identifier = "projects"
-name = "Projects"
-url = "projects/"
-weight = 10
+#[[menu.main]]
+#identifier = "projects"
+#name = "Projects"
+#url = "projects/"
+#weight = 10
 
 [menu]
 [[menu.main]]
