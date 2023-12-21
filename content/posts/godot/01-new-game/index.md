@@ -49,3 +49,15 @@ Das ist nicht der allererste Fehler den ich bis jetzt geschrieben habe, aber ein
 Vielleich liegt es an der Weihnachtszeit und meinem tristen Spielfeld... Deswegen habe ich mir ein paar Bäumchen gepflanzt. Ich habe noch keine Ahnung welchen Style das Spiel haben wird, aber in der Low-Poly Welt konnte ich immer ziemlich schnell brauchbare Gegenstände modellieren 🙃 Jetzt bekam ich probleme mit der `move_and_slide` Methode, die meinen Character an der Baumgrenze einfach festgesetzt hat. Also nehme ich mit, dass für mein Spiel aktuell `move_and_collide` besser geeignet ist. In Zukunft sollte ich mir auch den [NavigationServer3D](https://docs.godotengine.org/en/stable/tutorials/navigation/navigation_using_navigationservers.html) anschauen.
 
 ## Der erste Gegner ist da
+
+Hier ist es, der Schrecken aus der Tiefe, ein Koloss der alten Zeit, der Terror aus dem All. Ganz ehrlich, ich habe noch keine Ahnung wo es hingeht und was die Geschichte wird. Für meinen ersten POC ist das auch nicht relevant. Hauptsache ist, dass meine Minions verfolgt und gefressen werden 😈
+
+Hacky, hacky, eine Sphere-Collision eingebaut, die Pfadfinding grob kopiert und meiner kleinen Einheit wird hinterhergelaufen 😅
+
+## Wir brauchen mehr Damage
+
+Langsam fügt sich das alles ein bisschen mehr zusammen. Auch mit mehr Scripten und Code kann versucht werden, eine grobe Struktur zu Bauen. Generalisierte Spielobjekte mit Teamzugehörigkeit und Angriffen. Die sich abmelden, wenn sie kein Leben mehr haben und von der Spielfläche verschwinden.
+
+## Riggeldy, Wobbeldy
+
+Endlich wieder Riggen in Blender 🥳 Es bringt zu viel Spaß, seine Spielobjekte zum Leben zu erwecken. Der Gltf Export mit den Actions war ein kleiner Krampf, aber mit einem Momentanen Workaround hat das auch fubktioniert. Jetzt kann dir Jagd so richtig beginnen.
