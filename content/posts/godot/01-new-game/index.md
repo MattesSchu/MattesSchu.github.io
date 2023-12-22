@@ -36,6 +36,13 @@ Jetzt können `Scripte` aber auch als variable direkt mit `preload` verwendet we
 
 ![Finding path](path_01.gif)
 
+Ein bisschen Selection-Control hier, eine Instanzierung von Entities dort, arbeiten mit Collisions (Layer, Static ....) and viola - ich habe ein simples aber nettes herumkommandieren von meinen Einheiten. Dabei auch gleich ein paar Tastenkombination umgesetzt:
+
+- `links+click`
+- `alt+links+click`
+- `str+links+click`
+- `...`
+
 ## Bug 01
 
 ![First Bug](bug_01.gif)
@@ -59,5 +66,7 @@ Hacky, hacky, eine Sphere-Collision eingebaut, die Pfadfinding grob kopiert und 
 Langsam fügt sich das alles ein bisschen mehr zusammen. Auch mit mehr Scripten und Code kann versucht werden, eine grobe Struktur zu Bauen. Generalisierte Spielobjekte mit Teamzugehörigkeit und Angriffen. Die sich abmelden, wenn sie kein Leben mehr haben und von der Spielfläche verschwinden.
 
 ## Riggeldy, Wobbeldy
+
+![spider_walk](spider_walk.gif)
 
 Endlich wieder Riggen in Blender 🥳 Es bringt zu viel Spaß, seine Spielobjekte zum Leben zu erwecken. Der Gltf Export mit den Actions war ein kleiner Krampf, aber mit einem Momentanen Workaround hat das auch fubktioniert. Jetzt kann dir Jagd so richtig beginnen.
