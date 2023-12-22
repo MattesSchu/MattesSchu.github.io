@@ -47,6 +47,10 @@ Personal Programming projects without Schnickschnack.
 name = "github"
 url = "https://github.com/mattesschu/"
 
+[[params.socialIcons]]
+name = "youtube"
+url = "https://www.youtube.com/@monwoarnfjaeho/featured"
+
 #[[menu.main]]
 #identifier = "projects"
 #name = "Projects"
