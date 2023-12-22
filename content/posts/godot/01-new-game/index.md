@@ -36,7 +36,7 @@ Jetzt können `Scripte` aber auch als variable direkt mit `preload` verwendet we
 
 ![Finding path](path_01.gif)
 
-Ein bisschen Selection-Control hier, eine Instanzierung von Entities dort, arbeiten mit Collisions (Layer, Static ....) and viola - ich habe ein simples aber nettes herumkommandieren von meinen Einheiten. Dabei auch gleich ein paar Tastenkombination umgesetzt:
+Ein bisschen Selection-Control hier, eine Instanzierung von Entities dort, arbeiten mit Collisions (Layer, Static ....) et voilà - ich habe ein simples aber nettes herumkommandieren von meinen Einheiten. Dabei auch gleich ein paar Tastenkombination umgesetzt:
 
 - `links+click`
 - `alt+links+click`
@@ -47,7 +47,7 @@ Ein bisschen Selection-Control hier, eine Instanzierung von Entities dort, arbei
 
 ![First Bug](bug_01.gif)
 
-Das ist nicht der allererste Fehler den ich bis jetzt geschrieben habe, aber ein Problem, das ich jetzt noch nicht direkt lösen möchte. Ich muss halt die `Collision` mit dem Spielermodell beim `Rechts+Click` ignorieren und vielleicht braucht meine Welt auch `Gravity`?! Ich habe mich aber sehr gefreut darüber 🙃
+Das ist nicht der allererste Fehler, den ich bis jetzt geschrieben habe, aber ein Problem, das ich jetzt noch nicht direkt lösen möchte. Ich muss halt die `Collision` mit dem Spielermodell beim `Rechts+Click` ignorieren und vielleicht braucht meine Welt auch `Gravity`?! Ich habe mich aber sehr gefreut darüber 🙃
 
 ## Bäume pflanzen - kann ich
 
@@ -59,14 +59,14 @@ Vielleich liegt es an der Weihnachtszeit und meinem tristen Spielfeld... Deswege
 
 Hier ist es, der Schrecken aus der Tiefe, ein Koloss der alten Zeit, der Terror aus dem All. Ganz ehrlich, ich habe noch keine Ahnung wo es hingeht und was die Geschichte wird. Für meinen ersten POC ist das auch nicht relevant. Hauptsache ist, dass meine Minions verfolgt und gefressen werden 😈
 
-Hacky, hacky, eine Sphere-Collision eingebaut, die Pfadfinding grob kopiert und meiner kleinen Einheit wird hinterhergelaufen 😅
+Hacky, hacky, eine Sphere-Collision eingebaut, die Pfadfindung grob kopiert und meiner kleinen Einheit wird hinterhergelaufen 😅
 
 ## Wir brauchen mehr Damage
 
-Langsam fügt sich das alles ein bisschen mehr zusammen. Auch mit mehr Scripten und Code kann versucht werden, eine grobe Struktur zu Bauen. Generalisierte Spielobjekte mit Teamzugehörigkeit und Angriffen. Die sich abmelden, wenn sie kein Leben mehr haben und von der Spielfläche verschwinden.
+Langsam fügt sich das alles ein bisschen mehr zusammen. Auch mit mehr Scripten und Code kann versucht werden, eine grobe Struktur zu Bauen. Generalisierte Spielobjekte mit Teamzugehörigkeit und Angriffen, die sich abmelden, wenn sie kein Leben mehr haben und von der Spielfläche verschwinden.
 
 ## Riggeldy, Wobbeldy
 
 ![spider_walk](spider_walk.gif)
 
-Endlich wieder Riggen in Blender 🥳 Es bringt zu viel Spaß, seine Spielobjekte zum Leben zu erwecken. Der Gltf Export mit den Actions war ein kleiner Krampf, aber mit einem Momentanen Workaround hat das auch fubktioniert. Jetzt kann dir Jagd so richtig beginnen.
+Endlich wieder Riggen in Blender 🥳 Es bringt zu viel Spaß, seine Spielobjekte zum Leben zu erwecken. Der Gltf Export mit den Actions war ein kleiner Krampf, aber mit einem Momentanen Workaround hat das auch funktioniert. Jetzt kann dir Jagd so richtig beginnen.
