@@ -9,7 +9,7 @@ image = "thumbnail.png"
 +++
 
 Jetzt beginnt das herumspielen in einer Spiel-Engine mit Blender und allem drum und dran. Es ist so schön mal wieder
-den `Default-Cube` zu sehen und direkt zu lös... NEIN! Der `Cube` in Blender wurde ein bisschen skaliert, gedreht,
+den `Default-Cube` zu sehen und direkt zu lösc... NEIN! Der `Cube` in Blender wurde ein bisschen skaliert, gedreht,
 dupliziert geschoben und geschoben, noch ein bisschen angemalt und fertig ist mein erster Charakter 🥳
 
 ## Alles ist eine Scene
