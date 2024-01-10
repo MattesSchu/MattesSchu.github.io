@@ -1,5 +1,5 @@
 +++
-title = 'Wo gehts lang?'
+title = '#02 Wo gehts lang?'
 date = 2023-12-24T12:00:00+00:00
 draft = false
 tags=["godot","games","programming"]
