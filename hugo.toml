@@ -5,6 +5,7 @@ theme = "PaperMod"
 paginate = 5
 enableRobotsTXT = true
 
+
 [taxonomies]
 category = 'categories'
 tag = 'tags'
@@ -50,6 +51,10 @@ url = "https://github.com/mattesschu/"
 [[params.socialIcons]]
 name = "youtube"
 url = "https://www.youtube.com/@monwoarnfjaeho/featured"
+
+[[params.socialIcons]]
+name = "sketchfab"
+url = "https://sketchfab.com/monkeycebear"
 
 #[[menu.main]]
 #identifier = "projects"
