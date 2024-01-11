@@ -13,6 +13,7 @@ tag = 'tags'
 [params]
 env = "production"
 description = "Personal Programming projects without Schnickschnack."
+keywords = [ "Blog", "Programming", "Portfolio", "Game", "Godot" ]
 author = "MattesSchu"
 defaultTheme = "auto"
 ShowShareButtons = true
@@ -61,6 +62,10 @@ url = "https://sketchfab.com/monkeycebear"
 #name = "Projects"
 #url = "projects/"
 #weight = 10
+
+#<meta name="google-site-verification" content="B9Yi0Xq7IgHNA9OTcSn7KLatnhTlSfy8tfphnZ0cLuI" />
+[params.analytics.google]
+SiteVerificationTag = "B9Yi0Xq7IgHNA9OTcSn7KLatnhTlSfy8tfphnZ0cLuI"
 
 [menu]
 [[menu.main]]
