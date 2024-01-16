@@ -1,7 +1,7 @@
 +++
 title = 'Mattu-Credit - visuelle Motivation zum sparen'
 date = 2024-01-13T12:00:00+00:00
-draft = true
+draft = false
 tags=["godot","games","programming"]
 categories=["godot"]
 [cover]
